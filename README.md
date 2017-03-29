@@ -8,3 +8,5 @@ Contra is a tricky game to develop good BOTS because the game involves a lot of 
 Heres the BOT in Action [Project Video](https://www.youtube.com/watch?v=UFjUXFJE6gg).
 
 Neural Evolution code based on [NEAT](https://www.cs.ucf.edu/~kstanley/neat.html) (NeuroEvolution of Augmenting Topologies)
+
+Here a good link with demos and concept explanation in case you want to [know more](https://www.cs.ucf.edu/~kstanley/neat.html) about [NEAT](https://www.cs.ucf.edu/~kstanley/neat.html).
